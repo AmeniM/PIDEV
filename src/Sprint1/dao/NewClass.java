@@ -12,5 +12,6 @@ public class NewClass {
     
 }
 //test!!!!!!!!!!!!!
-
-//test2 de slim
+//param param yeaaaaaaaaaaaaaaaaaaaaah weyyyyyyyyyyyyyyyyyyyyyyyy wararararararararary :'(
+//ya nesriiiiiiiiiiiiiiiine!!!!
+////ya ameeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeniiiiiiiiiiiiiiiiiiiiiiiiiiiiiii

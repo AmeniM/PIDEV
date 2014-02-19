@@ -9,7 +9,7 @@ package Sprint1.dao;
  * @author Ameni
  */
 public class NewClass {
-    int x,
+    int x;
     
 }
 //test!!!!!!!!!!!!!
